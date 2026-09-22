@@ -1,0 +1,340 @@
+{
+  "Recommendations": [
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 100,
+      "MaxBudgetEUR": 300,
+      "Climate": "Warm",
+      "Destination": "Охрид, Северна Македонија",
+      "Description": "Богато историско наследство, УНЕСКО знаменитости, стари цркви и прекрасен поглед на езерото.",
+      "Image": "https://2cupsoftravel.com/wp-content/uploads/2022/08/Lake-ohrid-nth-macedonia-recommendations.jpg",
+      "Accommodation": {
+        "Name": "Villa Sofia Ohrid",
+        "Type": "Апартман во стариот град",
+        "PricePerNightEUR": 35
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 150,
+      "MaxBudgetEUR": 400,
+      "Climate": "Cold",
+      "Destination": "Сараево, Босна и Херцеговина",
+      "Description": "Град каде што се среќаваат Истокот и Западот, познат по Башчаршија и богата историја.",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2U29mkatztvEMenhud6nhYdGAyiJG0SgkbS-lebzZBKCtxL2zNEWaKQ0C&s=10",
+      "Accommodation": {
+        "Name": "Hotel Bascarsija Promenade",
+        "Type": "Бутик Хотел 3*",
+        "PricePerNightEUR": 45
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 200,
+      "MaxBudgetEUR": 550,
+      "Climate": "Warm",
+      "Destination": "Ксамил, Албанија",
+      "Description": "Пристапна медитеранска дестинација со тиркизна вода и островчиња.",
+      "Image": "https://www.weroad.com/blog/wp-content/uploads/2026/03/panoramic-view-of-ksamil-albanian-riviera-ksamil-2026-01-11-10-44-56-utc-ridimensionato-a-grande.jpeg",
+      "Accommodation": {
+        "Name": "Hotel Islands Ksamil",
+        "Type": "Хотел 3*",
+        "PricePerNightEUR": 50
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 250,
+      "MaxBudgetEUR": 600,
+      "Climate": "Warm",
+      "Destination": "Истанбул, Турција",
+      "Description": "Магичен град на два континенти со богати џамии, капали чаршија и крстарење по Босфор.",
+      "Image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/09/7b/8e/ortakoy-mosque.jpg?w=1400&h=-1&s=1",
+      "Accommodation": {
+        "Name": "Sultanahmet Ottoman Hotel",
+        "Type": "Бутик Хотел 4*",
+        "PricePerNightEUR": 60
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 300,
+      "MaxBudgetEUR": 700,
+      "Climate": "Warm",
+      "Destination": "Халкидики, Грција",
+      "Description": "Прекрасни песочни плажи, кристално чисто море и релаксирачка атмосфера.",
+      "Image": "https://www.greeka.com/photos/macedonia/halkidiki/beaches/hero/halkidiki-beaches-1280.jpg",
+      "Accommodation": {
+        "Name": "Kassandra Bay Resort",
+        "Type": "Хотел 4* крај плажа",
+        "PricePerNightEUR": 70
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 350,
+      "MaxBudgetEUR": 800,
+      "Climate": "Warm",
+      "Destination": "Рим, Италија",
+      "Description": "Вечниот град исполнет со вековна историја, Колисеумот и Фонтаната Ди Треви.",
+      "Image": "https://res.klook.com/image/upload/fl_lossy.progressive,q_60/Mobile/City/afmqgg5h0jl9wnr1dfmf.jpg",
+      "Accommodation": {
+        "Name": "Roma Central Residence",
+        "Type": "Градски Апартман",
+        "PricePerNightEUR": 80
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 400,
+      "MaxBudgetEUR": 900,
+      "Climate": "Cold",
+      "Destination": "Прага, Чешка",
+      "Description": "Историски европски град полн со готска архитектура, Карловиот мост и музеи.",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRreIf1WUAycYs4-N3OBZg85PnDLKRfz0EuOU1KHEggbw&s=10",
+      "Accommodation": {
+        "Name": "Old Town Prague Hotel",
+        "Type": "Бутик Хотел 4*",
+        "PricePerNightEUR": 85
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 450,
+      "MaxBudgetEUR": 1000,
+      "Climate": "Cold",
+      "Destination": "Будимпешта, Унгарија",
+      "Description": "Кралицата на Дунав, позната по термалните бањи, Парламентот и историските знаменитости.",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvftNcHeRsrfaUUGdX_a4ui-CoiDGFaASqExi3-pqUFBoL7M_lAX78RI&s=10",
+      "Accommodation": {
+        "Name": "Danube View Hotel & Spa",
+        "Type": "Спа Хотел 4*",
+        "PricePerNightEUR": 95
+      }
+    },
+    {
+      "Type": "Nature",
+      "MinBudgetEUR": 500,
+      "MaxBudgetEUR": 1100,
+      "Climate": "Cold",
+      "Destination": "Закопане, Полска",
+      "Description": "Зимска и планинарска престолнина на Полска, опкружена со Татрите.",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyFWsn5jDKre7B3gyzLgh-NIMcVgcUnPxVr_oY6815aKLDul4S6a5SmHq&s=10",
+      "Accommodation": {
+        "Name": "Tatra Mountain Chalet",
+        "Type": "Планински Ризорт",
+        "PricePerNightEUR": 75
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 550,
+      "MaxBudgetEUR": 1200,
+      "Climate": "Warm",
+      "Destination": "Барселона, Шпанија",
+      "Description": "Одличен микс од архитектура на Гауди, историски музеи и сончеви денови.",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeRWuq-PYWwxZnuQaVaV_IFMH-n4UHKhvfyj5-PNDfHtLUmT8qMl6WoDB&s=10",
+      "Accommodation": {
+        "Name": "Catalonia Ramblas Hotel",
+        "Type": "Хотел 4*",
+        "PricePerNightEUR": 110
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 600,
+      "MaxBudgetEUR": 1400,
+      "Climate": "Warm",
+      "Destination": "Санторини, Грција",
+      "Description": "Светски познат остров со бели куќички, сини покриви и прекрасни зајдисонца.",
+      "Image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800",
+      "Accommodation": {
+        "Name": "Caldera View Suites",
+        "Type": "Луксузни апартмани",
+        "PricePerNightEUR": 140
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 650,
+      "MaxBudgetEUR": 1500,
+      "Climate": "Warm",
+      "Destination": "Анталија, Турција",
+      "Description": "Врвно медитеранско искуство со луксузни All-Inclusive ресорти, чисти плажи и богата историја.",
+      "Image": "https://www.ethnohotels.com/media/ujajc4mf/antalya-gezi.jpg?rmode=max&width=500",
+      "Accommodation": {
+        "Name": "Lara Barut Resort",
+        "Type": "5* All-Inclusive Ресорт",
+        "PricePerNightEUR": 130
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 700,
+      "MaxBudgetEUR": 1600,
+      "Climate": "Warm",
+      "Destination": "Париз, Франција",
+      "Description": "Градот на светлината, уметноста и љубовта. Познат по Ајфеловата кула, Лувр и шармантните кафулиња.",
+      "Image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
+      "Accommodation": {
+        "Name": "Hotel Plaza Étoile",
+        "Type": "Бутик Хотел 4*",
+        "PricePerNightEUR": 150
+      }
+    },
+    {
+      "Type": "Nature",
+      "MinBudgetEUR": 750,
+      "MaxBudgetEUR": 1600,
+      "Climate": "Warm",
+      "Destination": "Плитвички Езера, Хрватска",
+      "Description": "Национален парк со 16 тиркизни езера поврзани со водопади и густи шуми.",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFI0XHqoz9IdPpi4PycxS9yzpxL26N4m7dUeckaGrO49IO4WHx0gCXrf5&s=10",
+      "Accommodation": {
+        "Name": "Ethno Houses Plitvice",
+        "Type": "Еко Ризорт",
+        "PricePerNightEUR": 100
+      }
+    },
+    {
+      "Type": "Nature",
+      "MinBudgetEUR": 800,
+      "MaxBudgetEUR": 1700,
+      "Climate": "Cold",
+      "Destination": "Халиштат, Австрија",
+      "Description": "Бајковито планинско село покрај езеро, опкружено со алпски врвови.",
+      "Image": "https://specials-images.forbesimg.com/imageserve/6553162485eb96bca9e43975/960x0.jpg",
+      "Accommodation": {
+        "Name": "Seehotel Gruner Baum",
+        "Type": "Езерски хотел",
+        "PricePerNightEUR": 160
+      }
+    },
+    {
+      "Type": "Nature",
+      "MinBudgetEUR": 900,
+      "MaxBudgetEUR": 1900,
+      "Climate": "Cold",
+      "Destination": "Интерлакен, Швајцарија",
+      "Description": "Срцето на швајцарските Алпи, идеално за планинарење, скијање и езерски пејзажи.",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshanVci6EAcf9JKQZmUQr7LaEn2bCJjDPRhlZevNbljFcKjeIGhlwe1j2&s=10",
+      "Accommodation": {
+        "Name": "Swiss Alpine Lodge",
+        "Type": "Планински Хотел 4*",
+        "PricePerNightEUR": 180
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 1000,
+      "MaxBudgetEUR": 2200,
+      "Climate": "Warm",
+      "Destination": "Тенерифе, Канарски Острови",
+      "Description": "Остров на вечната пролет со вулкански плажи, планината Теиде и тропска клима цела година.",
+      "Image": "https://images.trvl-media.com/place/6139055/2944a9ff-7aa5-44be-ba58-ca4c093329cc.jpg",
+      "Accommodation": {
+        "Name": "Tenerife Ocean Resort",
+        "Type": "Хотел 4* крај океан",
+        "PricePerNightEUR": 120
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 1200,
+      "MaxBudgetEUR": 2500,
+      "Climate": "Warm",
+      "Destination": "Дубаи, ОАЕ",
+      "Description": "Ултрамодерен град на луксуз, футуристички облакодери, пустински сафари и премиум плажи.",
+      "Image": "https://media.istockphoto.com/id/1333035210/photo/sunset-view-of-the-dubai-marina-and-jbr-area-and-the-famous-ferris-wheel-and-golden-sand.jpg?s=612x612&w=0&k=20&c=ONRt8hlovwg0m8f6Q3OG5Spavaer2JCaAioUE-XM_r8=",
+      "Accommodation": {
+        "Name": "Dubai Marina Suites",
+        "Type": "Луксузен Хотел 5*",
+        "PricePerNightEUR": 200
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 1400,
+      "MaxBudgetEUR": 2800,
+      "Climate": "Warm",
+      "Destination": "Бали, Индонезија",
+      "Description": "Тропски рај со егзотични плажи, оризови тераси, храмови и водопади.",
+      "Image": "https://media.cntraveller.com/photos/63eb5a36b515236831979f64/1:1/w_4016,h_4016,c_limit/GettyImages-1145042281.jpeg",
+      "Accommodation": {
+        "Name": "Ubud Tropical Villas",
+        "Type": "Приватна Вила со Базен",
+        "PricePerNightEUR": 170
+      }
+    },
+    {
+      "Type": "Nature",
+      "MinBudgetEUR": 1500,
+      "MaxBudgetEUR": 3000,
+      "Climate": "Cold",
+      "Destination": "Рејкјавик, Исланд",
+      "Description": "Пејзажи што одземаат здив, глечери, геотермални извори (Blue Lagoon) и Северната светлина.",
+      "Image": "https://www.meganstarr.com/wp-content/uploads/2022/09/Snow-during-the-winter-in-Reykjavik_602408294.jpg",
+      "Accommodation": {
+        "Name": "Northern Lights Aurora Lodge",
+        "Type": "Еко-Ложа",
+        "PricePerNightEUR": 220
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 1800,
+      "MaxBudgetEUR": 3500,
+      "Climate": "Warm",
+      "Destination": "Токио, Јапонија",
+      "Description": "Спој на технологија, древни храмови, традиција, суши и футуристички населби.",
+      "Image": "https://www.ytravelblog.com/wp-content/uploads/2022/09/tokyo-japan.jpg",
+      "Accommodation": {
+        "Name": "Shinjuku Park Tower Hotel",
+        "Type": "Хотел 4*",
+        "PricePerNightEUR": 210
+      }
+    },
+    {
+      "Type": "Culture",
+      "MinBudgetEUR": 2000,
+      "MaxBudgetEUR": 4000,
+      "Climate": "Warm",
+      "Destination": "Њујорк, САД",
+      "Description": "Светската метропола позната по Тајмс Сквер, Централ Парк, Бродвеј и Статуата на Слободата.",
+      "Image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800",
+      "Accommodation": {
+        "Name": "Manhattan Times Square Hotel",
+        "Type": "Градски Хотел 4*",
+        "PricePerNightEUR": 280
+      }
+    },
+    {
+      "Type": "Beach",
+      "MinBudgetEUR": 2500,
+      "MaxBudgetEUR": 5500,
+      "Climate": "Warm",
+      "Destination": "Малдиви",
+      "Description": "Ексклузивен тропски рај со бунгалови над кристално чистата океанска вода.",
+      "Image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800",
+      "Accommodation": {
+        "Name": "Sun Siyam Water Villas",
+        "Type": "Overwater Bungalow Resort 5*",
+        "PricePerNightEUR": 450
+      }
+    },
+    {
+      "Type": "Nature",
+      "MinBudgetEUR": 2800,
+      "MaxBudgetEUR": 6000,
+      "Climate": "Cold",
+      "Destination": "Банф, Канада",
+      "Description": "Недопрена дивина, тиркизни леднички езера и импозантни канадски планински масиви.",
+      "Image": "https://sea2peak.com/wp-content/uploads/2025/02/A74004733.jpg",
+      "Accommodation": {
+        "Name": "Fairmont Chateau Lake Louise",
+        "Type": "Луксузен Ризорт 5*",
+        "PricePerNightEUR": 500
+      }
+    }
+  ]
+}
