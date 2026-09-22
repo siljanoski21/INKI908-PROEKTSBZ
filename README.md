@@ -11,4 +11,6 @@ Data Source: JSON
 JSON Парсер: Newtonsoft.Json
 UI: Bootstrap, CSS3, HTML5
 
+Апликацијата се стартува преку PowerShell локално во фолдерот со команда dotnet run, креира localhost и го внесуваме истиот во browser
+
 Кристијан Силјаноски ИНКИ908
